@@ -1,3 +1,4 @@
 # HospitalERP
-This is my Hospital ERP Repository
-Author - Deepika Zinzhore
+This is my Hospital ERP Repository.
+<br>
+Author - Deepika Zinzhore.
